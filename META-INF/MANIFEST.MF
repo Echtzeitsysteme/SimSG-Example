@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SimSG_Example
+Bundle-SymbolicName: SimSG_Example
+Bundle-Version: 1.0.0.qualifier
+Export-Package: example
+Require-Bundle: org.simsg.core;bundle-version="1.0.0",
+ org.simsg.container;bundle-version="0.1.0"
