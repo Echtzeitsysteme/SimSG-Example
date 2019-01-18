@@ -5,3 +5,5 @@ Bundle-SymbolicName: SimSG_Example
 Bundle-Version: 1.0.0.qualifier
 Export-Package: example
 Require-Bundle: org.simsg.dependencies;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: SimSG_Example
