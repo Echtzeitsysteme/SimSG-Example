@@ -1,4 +1,4 @@
-SimSG_Example
+SimSG-Example
 
 Setup instructions
 Get Eclipse 2018-12 with Modeling Components
