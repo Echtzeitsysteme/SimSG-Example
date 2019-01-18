@@ -1,6 +1,6 @@
-#SimSG-Example
+# SimSG-Example
 
-##Setup instructions
+## Setup instructions
 * Get Eclipse 2018-12 with Modeling Components
 
 * Install SimSG http://emoflon.org/SimSG-UpdateSite
@@ -12,4 +12,4 @@
 
 * In a fresh Eclipse workspace, check out: https://github.com/eMoflon/SimSG-Example (Branch: master) and import all projects.
 
-* Run the Java class BiochemistryExample.java in the package *example*
+* Run the Java class *BiochemistryExample.java* in the package *example*
